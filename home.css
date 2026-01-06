@@ -1,0 +1,49 @@
+body{
+    background-color: #f0f9ff;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+h1{
+    background-color: #ccfbf1;
+    color: #0f766e;
+}
+.menu {
+    background-color: #e0f2fe;
+    font-weight: bolder;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: #0284C7;
+    color: white;
+}
+.selection {
+    color: #0369a1;
+}
+.title {
+    background-color: #ffffff;
+}
+h2{
+    color: #155e75;
+}
+h2+p,
+li{
+    color: #1f2937;
+    font-size: 18px;
+}
+li:hover{
+    background-color: #E0F2FE;
+    color: #2468C8;
+}
+footer{
+    text-align: center;
+    background-color: #0f766e;
+    color: #ffffff;
+}
+footer p{
+    margin: 4px;
+}

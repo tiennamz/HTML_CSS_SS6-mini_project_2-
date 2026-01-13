@@ -1,0 +1,39 @@
+body{
+    font-family:cursive;
+    
+}
+header{
+    text-align: center  ;
+}
+h1{
+    background-color: #FDE68A;
+    color: #78350F;
+}
+.link{
+    background-color: #FED7AA;
+    font-weight: bold ;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: #7C2D12;
+}
+a:hover{
+    background-color: #C2410C;
+    color: #ffffff;
+}
+h2{
+    color: #92400E;
+}
+ol li:hover{
+    background-color: #78350F;
+    color: #FFFF00;
+}
+main{
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    background-color: #78350F;
+    color: #ffffff;
+}
